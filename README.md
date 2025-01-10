@@ -65,23 +65,6 @@ code-review-pipeline/
 │   ├── performance_agent.py
 │   ├── security_agent.py
 │   └── style_agent.py
-├── code-review-ui/
-│   ├── public/
-│   │   ├── index.html
-│   │   ├── manifest.json
-│   │   └── robots.txt
-│   ├── src/
-│   │   ├── App.css
-│   │   ├── App.js
-│   │   ├── App.test.js
-│   │   ├── index.css
-│   │   ├── index.js
-│   │   ├── logo.svg
-│   │   ├── reportWebVitals.js
-│   │   └── setupTests.js
-│   ├── .gitignore
-│   ├── package.json
-│   └── README.md
 ├── utils/
 │   ├── code_parser.py
 │   ├── issue_tracker.py
