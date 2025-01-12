@@ -1,4 +1,4 @@
-# Code Review Pipeline
+# CodeLens
 
 This project provides a code review pipeline using a Flask backend and a React frontend. The pipeline includes various agents that analyze code for security, style, performance, and documentation issues.
 
@@ -56,7 +56,7 @@ Usage
     View the review results displayed on the page.
 
 Project Structure:
-
+```
 code-review-pipeline/
 ├── agents/
 │   ├── agent_factory.py
@@ -74,6 +74,6 @@ code-review-pipeline/
 ├── main.py
 ├── README.md
 └── requirements.txt
-
+```
 Contributing:
     Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
